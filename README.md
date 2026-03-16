@@ -1,9 +1,10 @@
 # PalGate Homey App (converted from homebridge-palgate)
 
-[![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/TheBlackBush/palgate-homey-app?sort=semver)](https://github.com/TheBlackBush/palgate-homey-app/releases)
-[![GitHub last commit](https://img.shields.io/github/last-commit/TheBlackBush/palgate-homey-app)](https://github.com/TheBlackBush/palgate-homey-app/commits/main)
-[![GitHub issues](https://img.shields.io/github/issues/TheBlackBush/palgate-homey-app)](https://github.com/TheBlackBush/palgate-homey-app/issues)
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](./LICENSE)
+[![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/TheBlackBush/palgate-homey-app?sort=semver&style=for-the-badge)](https://github.com/TheBlackBush/palgate-homey-app/releases)
+[![GitHub last commit](https://img.shields.io/github/last-commit/TheBlackBush/palgate-homey-app?style=for-the-badge)](https://github.com/TheBlackBush/palgate-homey-app/commits/main)
+[![GitHub issues](https://img.shields.io/github/issues/TheBlackBush/palgate-homey-app?style=for-the-badge)](https://github.com/TheBlackBush/palgate-homey-app/issues)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg?style=for-the-badge)](./LICENSE)
+[![Ko-fi](https://img.shields.io/badge/support_me_on_ko--fi-F16061?style=for-the-badge&logo=kofi&logoColor=f5f5f5)](https://ko-fi.com/M4M11W3R7J)
 
 ## Current status
 
