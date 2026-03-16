@@ -25,5 +25,9 @@
   "0.4.2": {
     "en": "Added required Homey changelog entries and re-triggered automatic publish flow.",
     "he": "נוספו רשומות changelog נדרשות ל-Homey והופעלה מחדש זרימת הפרסום האוטומטית."
+  },
+  "0.4.3": {
+    "en": "Updated repository URLs in app metadata, refreshed README badges to for-the-badge, and added Ko-fi badge.",
+    "he": "עודכנו כתובות הריפו במטא-דאטה, רועננו badges ב-README לסגנון for-the-badge ונוספה תגית Ko-fi."
   }
 }
