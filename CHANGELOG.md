@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.4.3 (2026-03-16)
+- Updated app metadata repository links in `app.json` (`source`, `bugs.url`, `support`) to `TheBlackBush/palgate-homey-app`.
+- Updated README badges to `for-the-badge` style.
+- Added Ko-fi support badge to README.
+
 ## 0.4.2 (2026-03-13)
 - Added missing Homey changelog entries required for headless publish flow.
 - Prepared follow-up release to re-trigger automatic Homey publish.
